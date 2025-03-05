@@ -68,7 +68,7 @@ entries:
       url: zop.dev
     name: cron-job
     urls:
-    - oci://registry-1.docker.io/aryanmehrotra23
+    - oci://registry-1.docker.io/aryanmehrotra23/cron-job
     version: v0.0.17
   dgraph:
   - apiVersion: v1
